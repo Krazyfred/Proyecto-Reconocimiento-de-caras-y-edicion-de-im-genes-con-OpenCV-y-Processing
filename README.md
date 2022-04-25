@@ -1,6 +1,8 @@
 Proyecto Reconocimiento de caras y edición de imágenes con OpenCV y Processing
 Alfredo del Val Ramos, 2º BACH B
 
+(Video demostración: https://youtu.be/srKGIxRuMZA)
+
 El objetivo fundamental de este proyecto es el poder conseguir editar la imagen que se recoge de la webcam para poder reconocer caras y poner imágenes sobre estas. 
 Para ello he comenzado con dos programaciones base:
 

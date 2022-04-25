@@ -3,6 +3,7 @@ Alfredo del Val Ramos, 2º BACH B
 
 El objetivo fundamental de este proyecto es el poder conseguir editar la imagen que se recoge de la webcam para poder reconocer caras y poner imágenes sobre estas. 
 Para ello he comenzado con dos programaciones base:
+
 •	La primera se basa en poner fotos sobre las caras reconocidas en una imagen fija. En este caso hemos puesto un equipo de futbol al cual hemos reconocido las caras y posteriormente añadido otra foto de una cara de otra persona.
 Las principales funciones a destacar de este programa son:
 o	opencv.detect() Función de la librería OpenCV que detecta automáticamente las caras de nuestras fotos.
